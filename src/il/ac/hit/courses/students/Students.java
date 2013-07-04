@@ -1,4 +1,4 @@
-package il.ac.courses.students;
+package il.ac.hit.courses.students;
 
 public class Students {
 	

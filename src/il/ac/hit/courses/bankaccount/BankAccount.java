@@ -1,4 +1,4 @@
-package il.ac.hit.curses.bankaccount;
+package il.ac.hit.courses.bankaccount;
 
 public class BankAccount {
 

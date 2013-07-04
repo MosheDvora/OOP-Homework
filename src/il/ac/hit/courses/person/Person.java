@@ -1,4 +1,4 @@
-package il.ac.courses.person;
+package il.ac.hit.courses.person;
 
 public class Person {
 	private String name;

@@ -1,4 +1,4 @@
-package il.ac.courses.cube;
+package il.ac.hit.courses.cube;
 
 public class Cube {
 	private double length=10;
